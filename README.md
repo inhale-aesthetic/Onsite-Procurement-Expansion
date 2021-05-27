@@ -26,7 +26,7 @@ Your country is no nuclear superpower. You can't simply buy guns and ammo at eve
 Are you up for the challenge?
 
 To install:
-Place OnsiteProcurementExpansion.deli H3VR\Deli\Mods
+Unzip to H3VR\Deli\Mods
 
 Requires TNHTweaker and Deli
 
