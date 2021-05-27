@@ -48,6 +48,10 @@ Requires TNHTweaker and Deli
 
 Have problems? I'm hovering around the h3vr Discord! Ping @Aeesthetic#1131 in a help channel (do not add me)
 
+TODO:
+Futz with balance
+
+Encryption spawn smoke seems to lie??? Possible bug, Gotta see if I can fix that.
 
 # A WORD ON BALANCE
 When I started this project, I wanted to avoid screwing with the balance as much as I could, since I figured Anton knew more about that than me. Well, turns out, not giving the player a gun at the start throws things out of whack. Who knew?
